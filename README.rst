@@ -4,7 +4,7 @@ This is a simple distributed in memory file system. It has following features:
 
 2. It is implemented using FUSE which is a user-space file system
 
-3. It is in client-server style RPC calls
+3. It is based on client-server style RPC calls
 
 4. Mutiple servers are supported. So it is claimed distributed
 

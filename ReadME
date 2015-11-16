@@ -1,0 +1,14 @@
+1. start servers
+   run the following scripts from *different* terminals:
+   start-server1.sh
+   start-server2.sh
+   start-server3.sh
+   start-server4.sh
+   
+   Note: use chmod to change files into executable before running
+2. start client
+   run following script from a new terminal:
+   start-client.sh
+
+3. test
+   Please see report for details

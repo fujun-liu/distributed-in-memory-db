@@ -11,3 +11,10 @@ This is a simple distributed in memory file system. It has following features:
 5. The servers are organized in a consistent hashing ring for fault tolerance
 
 6. It is based on class project. So basically just proof of concept. 
+
+
+This is just a class project, kind of proof of concept. Please refer to memcached or redis for application purporse
+
+memcached: https://github.com/memcached/memcached
+
+redis: https://github.com/antirez/redis
